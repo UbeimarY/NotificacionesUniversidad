@@ -15,7 +15,7 @@ API REST desarrollada con Java + Spring Boot + PostgreSQL.
 ```bash
 docker run --name postgres-notificaciones \
   -e POSTGRES_USER=postgres \
-  -e POSTGRES_PASSWORD=admin123 \
+  -e POSTGRES_PASSWORD=987883an \
   -e POSTGRES_DB=notificaciones_db \
   -p 5432:5432 \
   -d postgres:16
