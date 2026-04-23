@@ -4,7 +4,7 @@ API REST desarrollada con Java + Spring Boot + PostgreSQL.
 
 ## Tecnologías
 - Java 17
-- Spring Boot 3.2
+- Spring Boot 4.0.5
 - PostgreSQL 16
 - Docker
 - Maven
